@@ -16,9 +16,7 @@ do {
 
 /* 1. Crea un programa que pregunte al usuario un número. Mostrar los números que son 
 múltiplos de 5 desde 1 hasta el número introducido por el usuario.
-2. Crea un programa que solicite al usuario 2 números entre 1 y 50. Posteriormente 
-mostrar en consola los números del 1 hasta el 50, pero añadir el mensaje “¡Lotería!” solo al mostrar
- los números indicados por el usuario. */
+*/
 
 console.log("----------");
 
